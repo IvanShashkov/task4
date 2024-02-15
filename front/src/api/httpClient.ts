@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const config = {
-    baseURL: 'https://task4-backend-o6guu3t7j-ivanshashkovs-projects.vercel.app',
+    baseURL: 'https://task4-back-indol.vercel.app/',
     crossDomain: true,
     headers: {
         'Content-Type': 'application/json',
