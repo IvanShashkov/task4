@@ -2,3 +2,4 @@
 .idea/
 /api/public/vendor/nova/
 /api/lang/vendor/nova/
+.vercel
