@@ -9,7 +9,7 @@ const bcrypt = require("bcrypt")
 const saltKey = 'task4'
 
 const corsOptions ={
-    origin:'https://task4-front-6g956k5tg-ivanshashkovs-projects.vercel.app',
+    origin:'https://task4-pied.vercel.app',
     credentials:true,
     optionSuccessStatus:200
 }
