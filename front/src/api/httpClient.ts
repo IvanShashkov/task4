@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const config = {
-    baseURL: 'http://localhost:3001',
+    baseURL: 'https://task4-backend-pied.vercel.app/,
     crossDomain: true,
     headers: {
         'Content-Type': 'application/json',
